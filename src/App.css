@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+html {
+  /* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif; */
+  font-family: 'Inter', sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: "scrollbar";
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  scroll-behavior: smooth;
+}
+
+.ForgotPassword {
+  margin-right: -58% !important;
+  margin-top: 1% !important;
+}
+
+.ForgotPassword a {
+  text-decoration: none !important;
+}
+
+.form_style {
+  position: relative;
+  outline: 0px;
+  margin: 12px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding: 24px;
+  background-color: rgb(255, 255, 255);
+  border-width: 1px 0px;
+  border-style: solid;
+  border-color: rgb(231, 235, 240);
+  border-image: initial;
+  width: 380px;
+}
+
+.border-style {
+  border-radius: 10px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+
+.userProfile {
+  background-color: #fdfefff0 !important;
+  color: black !important;
+  font-weight: 600;
+  border: 2px solid rgb(234, 231, 231);
+  border-radius: 12px;
+}
+
+.css-19kzrtu {
+  padding: 10px !important;
+} 
+
